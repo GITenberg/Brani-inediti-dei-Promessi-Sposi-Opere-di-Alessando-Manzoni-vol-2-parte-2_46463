@@ -1,9 +1,8 @@
 _repo: Brani-inediti-dei-Promessi-Sposi-Opere-di-Alessando-Manzoni-vol-2-parte-2_46463
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 46463/46463-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46463-h/images/cover.jpg
 creator:
   author:
     agent_name: Manzoni, Alessandro
@@ -13,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37500
     wikipedia: http://en.wikipedia.org/wiki/Alessandro_Manzoni
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46463#Brani-inediti-dei-Promessi-Sposi-Opere-di-Alessando-Manzoni-vol-2-parte-2
 gutenberg_bookshelf: IT Letteratura
 gutenberg_issued: '2014-07-31'
 gutenberg_type: Text
